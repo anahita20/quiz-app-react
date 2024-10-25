@@ -1,2 +1,2 @@
 # quiz-app-react
-Created with CodeSandbox
+A simple quiz application using React. Note: Quiz questions are retrieved using json file
