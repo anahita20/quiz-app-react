@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.quiz-container,
+.start-container {
+  width: 500px;
+  margin: 0 auto;
+  background-color: lightcoral;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.question-container {
+  font-size: 1.6em;
+  font-family: "Times New Roman", Times, serif;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px;
+  padding: 20px;
+}
+
+.button-option {
+  width: 40%;
+  margin: 10px auto;
+  padding: 10px;
+  border: none;
+  border-radius: 7%;
+  background-color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.start-button {
+  width: 40%;
+  margin: 10px auto;
+  border: none;
+  border-radius: 7%;
+  background-color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button-option:hover {
+  background-color: rgb(240, 223, 223);
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+    "answer": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Which language is primarily spoken in Brazil?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "answer": "Portuguese"
+  },
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 4,
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 5,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "answer": "William Shakespeare"
+  }
+]
